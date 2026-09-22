@@ -30,9 +30,10 @@ footer{text-align:center;padding:30px 20px;border-top:1px solid #ddd;color:#6671
 @media(max-width:650px){.links{gap:10px}.links a{font-size:12px}.hero{padding-top:70px}.project{display:block}.project-link{display:inline-block;margin-top:14px}}
 
 .profile-logo {
-  width: 90px;
-  height: 90px;
+  width: 280px;
+  max-width: 80%;
+  height: auto;
   object-fit: contain;
-  margin: 0 auto 20px;
+  margin: 0 auto 25px;
   display: block;
 }
