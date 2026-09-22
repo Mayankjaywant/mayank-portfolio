@@ -37,3 +37,8 @@ footer{text-align:center;padding:30px 20px;border-top:1px solid #ddd;color:#6671
   margin: 0 auto 25px;
   display: block;
 }
+.current-focus {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+}
