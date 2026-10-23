@@ -19,8 +19,8 @@ h1 span{display:block}
 .section h2{font-size:32px;margin-bottom:22px}
 .section>p{max-width:780px;color:#4d5660}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px}
-.card,.project{background:#fff;border:1px solid #ddd;border-radius:12px;padding:22px;padding: 10px;}
-.card h3,.project h3{margin-bottom:8px;padding: 10px;}
+.card,.project{background:#fff;border:1px solid #ddd;border-radius:12px;padding:22px}
+.card h3,.project h3{margin-bottom:8px}
 .project{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:16px}
 .tech,.muted{color:#66717d;font-size:14px;margin-top:10px}
 .project-link,.Certificate-link{color:#17202a;font-weight:700;white-space:nowrap}
